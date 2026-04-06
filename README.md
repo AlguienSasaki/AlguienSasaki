@@ -19,6 +19,7 @@
 
 <a href="https://archlinux.org/"><img src="https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png" height="20%" width="20%"></a>
 
+<a href="https://libreboot.org/"><img src="https://ih1.redbubble.net/image.781405386.5885/st,small,507x507-pad,600x600,f8f8f8.u3.jpg" height="20%" width="20%"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
