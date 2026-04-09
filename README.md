@@ -14,15 +14,12 @@
 - ⚡ Fun fact **I also make mashups at youtube**
 
 ### Interests
-
-<a href="https://www.gentoo.org/"><img src="https://www.gentoo.org/assets/img/logo/gentoo-horizontal.png" height="20%" width="20%"></a>
-
-<a href="https://archlinux.org/"><img src="https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png" height="20%" width="20%"></a>
-
-<a href="https://libreboot.org/"><img src="https://av.vimuser.org/bootmenu.jpg" height="20%" width="20%"></a>
-
-<a href="https://coreboot.org/"><img src="https://blog.desdelinux.net/wp-content/uploads/2025/07/coreboot-thumbnail.png" height="20%" width="20%"></a>
-
+<p align="left">
+  <a href="https://www.gentoo.org/"><img src="https://www.gentoo.org/assets/img/logo/gentoo-horizontal.png" height="20%" width="20%"></a>
+  <a href="https://archlinux.org/"><img src="https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png" height="20%" width="20%"></a>
+  <a href="https://libreboot.org/"><img src="https://av.vimuser.org/bootmenu.jpg" height="20%" width="20%"></a>
+  <a href="https://coreboot.org/"><img src="https://blog.desdelinux.net/wp-content/uploads/2025/07/coreboot-thumbnail.png" height="20%" width="20%"></a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
