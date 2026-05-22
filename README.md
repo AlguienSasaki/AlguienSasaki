@@ -5,11 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alguiensasaki" alt="alguiensasaki" /></a> </p>
 
-- 🌱 I’m currently learning **HTML5, CSS, C++**
+- 🌱 I’m currently working on porint **Libreboot, Heads** to the Thinkpad X280
 
-- 💬 Ask me about **Linux, bash, python**
+- 💬 Ask me about **Linux, bash, C**
 
 - 📫 How to reach me **alguiensasaki@gmail.com**
+
+- 🌐 Visit my website: **alguiensasaki.net**
 
 - ⚡ Fun fact **I also make mashups at youtube**
 
